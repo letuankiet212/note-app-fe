@@ -1,2 +1,2 @@
-# note-app-fe
+# Note App FE
 ReactJS Note App
